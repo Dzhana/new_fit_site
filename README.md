@@ -1,2 +1,2 @@
 # WELCOME
-Members: [alexmalnin](https://github.com/alexmalinin)
+Members: [alexmalinin](https://github.com/alexmalinin)
